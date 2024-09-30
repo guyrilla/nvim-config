@@ -1,0 +1,10 @@
+{
+    "diagnostics.globals": [
+        "vim",
+        "nvim_lsp",
+        "local",
+        "retun",
+        "cmp",
+        "ls_dir"
+    ]
+}
